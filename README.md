@@ -33,7 +33,6 @@ Also I’m opened to all interesting offers to work and collaborate on open sour
 
 <br />
 <br />
----
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
